@@ -1,40 +1,43 @@
-# 🌦️ Weather Pro - Python Weather App with GUI
+# 🌦️ WeatherPro: A Python-based GUI Weather Application
 
----
+***
 
-## Overview
+## 📝 Project Overview
 
-**Weather Pro** is a sleek and user-friendly Python GUI application that fetches and displays current weather information and a 3-day forecast for any city worldwide. It uses the [WeatherAPI.com](https://www.weatherapi.com/) service for accurate weather data.
+**WeatherPro** is a modern and intuitive **Python** application designed to provide users with real-time weather information and a three-day forecast for any city around the globe. This **graphical user interface (GUI)** tool leverages the robust and reliable **WeatherAPI.com** service to deliver accurate and up-to-date meteorological data.
 
-The app features:  
-- Current weather with temperature, humidity, wind speed, and condition  
-- Weather icons for visual appeal  
-- 3-day weather forecast toggle  
-- Temperature unit switch (°C / °F)  
-- Error handling and loading indicators  
-- Clean and modern Tkinter-based GUI  
+The application's key features include:
 
----
+* Display of current weather metrics such as temperature, humidity, wind speed, and atmospheric conditions.
+* A visually appealing design incorporating **weather-specific icons**.
+* A user-friendly toggle to switch between a **current forecast** and a **three-day forecast**.
+* An option for users to toggle the temperature unit between **Celsius (°C)** and **Fahrenheit (°F)**.
+* Comprehensive **error handling** and **loading indicators** for a smooth user experience.
+* A clean and modern interface built with the **Tkinter** library.
 
-## Features
+***
 
-- Search weather by city name  
-- Toggle between Celsius and Fahrenheit  
-- View detailed current weather conditions  
-- Optional 3-day weather forecast  
-- Responsive and colorful GUI with weather icons  
-- Error messages for invalid city names or network issues  
+## ✨ Core Features
 
----
+* **City Search:** The ability to search for weather data by entering any city name.
+* **Unit Conversion:** Instant switching between Celsius and Fahrenheit temperature scales.
+* **Detailed Conditions:** A display of comprehensive current weather conditions.
+* **Three-Day Forecast:** An optional view of the weather forecast for the next three days.
+* **Responsive GUI:** A colorful and responsive user interface enhanced with dynamic weather icons.
+* **Robust Error Handling:** Informative error messages for issues such as invalid city names or network connectivity problems.
 
-## Installation
+***
+
+## 💻 Installation and Setup
 
 ### Prerequisites
 
-- Python 3.7 or higher  
-- [WeatherAPI.com](https://www.weatherapi.com/) API key (free signup)
+* **Python 3.7** or a more recent version.
+* A valid **API key** from [WeatherAPI.com](https://www.weatherapi.com/). A free signup is available on their website.
 
-### Clone the repository
+### Installation Instructions
 
-git clone https://github.com/abdullahjaved40/Weather_App_Using_Python.git
+To get started, clone the repository using the following command:
 
+```bash
+git clone [https://github.com/AbdullahJaveid/weather-app-using-python.git](https://github.com/AbdullahJaveid/weather-app-using-python.git)
